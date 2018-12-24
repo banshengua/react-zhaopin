@@ -5,7 +5,7 @@
 
 
 
-![image](https://github.com/banshengua/react-zhaopin/raw/master/zhaopin/image/l.png)
+![image](https://github.com/banshengua/react-zhaopin/raw/master/zhaopin/image/1.png)
 ![image](https://github.com/banshengua/react-zhaopin/raw/master/zhaopin/image/2.png)
 ![image](https://github.com/banshengua/react-zhaopin/raw/master/zhaopin/image/3.png)
 ![image](https://github.com/banshengua/react-zhaopin/raw/master/zhaopin/image/4.png)
