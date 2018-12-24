@@ -1,6 +1,8 @@
 # react-zhaopin
 聊天招聘app 基于react全家桶+node.js(express)+ssr服务器渲染
-
+npm install
+npm run server
+记得安装mongodb数据库
 
 
 
